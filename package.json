@@ -1,0 +1,15 @@
+{
+  "name": "weather-app-serv",
+  "version": "1.0.0",
+  "description": "serves city name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "inert": "^5.1.3"
+  }
+}
